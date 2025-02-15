@@ -47,7 +47,7 @@
 
 
 
-<h2 align="left">Currently 💻 working on...</h2>
+<h3 align="left">Currently 💻 working on...</h3>
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-<h4 align="left">Click to check 👉.</h4>
+<h3 align="left">Click to check 👉.</h3>
 
 ###
 
