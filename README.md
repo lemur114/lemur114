@@ -1,16 +1,13 @@
-<h2 align="left">Hello World 👋, I'm Adrian</h2>
+<h1 align="left">Hello World 👋, I'm Adrian</h1>
 
 ###
 
 <p align="left">I am an ambitious second-year Computer Science student at the University of Łódź 🎓, seeking opportunities to gain my first professional experience through an internship 💼. I have a solid foundation in programming 💻, databases 🗄️, and version control systems ⚙️. I am open to learning 📚, enjoy collaborating in teams 🤝, and quickly adapt to new technologies and work methods 🔧.</p>
 
-###
-
-<h3 align="left"></h3>
 
 ###
 
-<h3 align="left">Technology</h3>
+<h2 align="left">Technology</h2>
 
 ###
 
@@ -42,29 +39,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
-
-<p align="left"></p>
 
 ###
+---
 
-<h3 align="left">Projects</h3>
-
-###
-
-<h4 align="left">Currently 💻 working on...</h4>
+<h1 align="left">Projects</h1>
 
 ###
 
-<h5 align="left">🔭 I’m currently working on a Pomodoro timer and a to-do list using Angular.</h5>
+<h2 align="left">Currently 💻 working on...</h2>
 
 ###
 
-<h4 align="left">Finished 🎉</h4>
+<h4 align="left">🔭 I’m currently working on a Pomodoro timer and a to-do list using Angular.</h4>
 
 ###
 
-<h5 align="left">Click to check 👉.</h5>
+<h2 align="left">Finished 🎉</h2>
+
+###
+
+<h4 align="left">Click to check 👉.</h4>
 
 ###
 
