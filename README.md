@@ -14,9 +14,9 @@
 
 <h3 align="left">Currently 💻 working 🛠️ on...</h3>
 
-<
-<p align="left">🔭 I’m currently working on a Pomodoro timer ⏳ and a to-do list 📝 using Angular. </p>
-<p align="left"> 📜⭐ Also working on obtaining a Cybersecurity 🛡️ certificate issued by IBM.</p>
+
+<p align="left">🔭 I’m currently working on a Pomodoro timer and a to-do list using Angular. ⏳📝 </p>
+<p align="left"> 📜⭐ Also working on obtaining a Cybersecurity certificate issued by IBM. 🛡️</p>
 
 
 ###
