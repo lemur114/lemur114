@@ -6,6 +6,7 @@
 
 
 ###
+<br>
 
 <h2 align="left">Technology</h2>
 
@@ -42,6 +43,7 @@
 
 ###
 
+<br>
 <h1 align="left">Projects</h1>
 
 
