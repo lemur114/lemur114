@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Technology</h2>
+<h2 align="left" color="#E0FFFF">Technology</h2>
 
 
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Finished 🎉</h2>
+<h2 align="left" decoration=="none">Finished 🎉</h2>
 
 
 
