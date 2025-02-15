@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left" color="#E0FFFF">Technology</h2>
+<h2 align="left">Technology</h2>
 
 
 
@@ -41,7 +41,6 @@
 
 
 ###
----
 
 <h1 align="left">Projects</h1>
 
@@ -55,11 +54,9 @@
 
 ###
 
-<h2 align="left" decoration=="none">Finished 🎉</h2>
+<h3 align="left" decoration=="none">Finished 🎉 click to check 👉</h3>
 
 
-
-<h3 align="left">Click to check 👉.</h3>
 
 ###
 
