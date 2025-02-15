@@ -14,18 +14,19 @@
 
 <h3 align="left">Currently 💻 working 🛠️ on...</h3>
 
+<
+<p align="left">🔭 I’m currently working on a Pomodoro timer ⏳ and a to-do list 📝 using Angular. </p>
+<p align="left"> 📜⭐ Also working on obtaining a Cybersecurity 🛡️ certificate issued by IBM.</p>
 
-<h4 align="left">🔭 I’m currently working on a Pomodoro timer and a to-do list using Angular.</h4>
-<h4 align="left">📜⭐ Also working on obtaining a Cybersecurity certificate issued by IBM.</h4>
 
 ###
 
 <br>
-<h3 align="left" decoration=="none">Finished 🎉 click to check 👉</h3>
+<h3 align="left">Finished 🎉 click to check 🌐👉</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://lem-qr.web.app/" target="_blank">
     <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/1-removebg-preview.png?raw=true" />
   </a>
