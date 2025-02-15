@@ -1,4 +1,4 @@
-<h1 align="left">Hello World 👋, I'm Adrian</h1>
+<h1 align="left">Hello World 👋🌎, I'm Adrian</h1>
 
 ###
 
@@ -6,6 +6,32 @@
 
 
 ###
+
+<br>
+<h1 align="left">Projects 💻</h1>
+
+
+
+<h3 align="left">Currently 💻 working 🛠️ on...</h3>
+
+
+<h4 align="left">🔭 I’m currently working on a Pomodoro timer and a to-do list using Angular.</h4>
+<h4 align="left">📜⭐ Also working on obtaining a Cybersecurity certificate issued by IBM.</h4>
+
+###
+
+<br>
+<h3 align="left" decoration=="none">Finished 🎉 click to check 👉</h3>
+
+###
+
+<div align="left">
+  <a href="https://lem-qr.web.app/" target="_blank">
+    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/1-removebg-preview.png?raw=true" />
+  </a>
+</div>
+
+
 <br>
 
 <h2 align="left">Technology</h2>
@@ -42,30 +68,6 @@
 
 
 ###
-
-<br>
-<h1 align="left">Projects</h1>
-
-
-
-<h3 align="left">Currently 💻 working on...</h3>
-
-
-
-<h4 align="left">🔭 I’m currently working on a Pomodoro timer and a to-do list using Angular.</h4>
-
-###
-
-<br>
-<h3 align="left" decoration=="none">Finished 🎉 click to check 👉</h3>
-
-###
-
-<div align="left">
-  <a href="https://lem-qr.web.app/" target="_blank">
-    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/1-removebg-preview.png?raw=true" />
-  </a>
-</div>
 
 
 ###
