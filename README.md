@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://lem-qr.web.app/" target="_blank">
-    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/1-removebg-preview.png?raw=true" />
+    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/QR_CODE_GENERATOR__1_-removebg-preview%20(1).png?raw=true" />
   </a>
 </div>
 
