@@ -25,14 +25,11 @@
 <h3 align="left">Finished 🎉 click to check 🌐👉</h3>
 
 ###
-
+<div>
 <div align="center">
   <a href="https://lem-qr.web.app/" target="_blank">
-    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/qrPerfect.png?raw=true" />
+    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/qrPerfect.png?raw=true" style="margin-right: 20px;" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://focus-cycle.web.app/" target="_blank">
     <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/pomodoroPerfect.png?raw=true" />
   </a>
