@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an ambitious second-year Computer Science student at the University of Łódź 🎓, seeking opportunities to gain my first professional experience through an internship 💼. I have a solid foundation in programming 💻, databases 🗄️, and version control systems ⚙️. I am open to learning 📚, enjoy collaborating in teams 🤝, and quickly adapt to new technologies and work methods 🔧.</p>
+<p align="left">I am an ambitious third-year Computer Science student at the University of Łódź 🎓, seeking opportunities to gain my first professional experience through an internship 💼. I have a solid foundation in programming 💻, databases 🗄️, and version control systems ⚙️. I am open to learning 📚, enjoy collaborating in teams 🤝, and quickly adapt to new technologies and work methods 🔧.</p>
 
 
 ###
@@ -14,8 +14,7 @@
 
 <h3 align="left">Currently 💻 working 🛠️ on...</h3>
 
-
-<p align="left">🔭 Currently working on developing a library using Java and PostgreSQL. 📚💻 </p>
+<p align="left">🔭 Currently working on developing a backend application using Spring Boot 🌱, Docker 🐳, and PostgreSQL 🐘  </p>
 <p align="left"> 📜⭐ Also taking courses on LinkedIn Learning to expand my skills. 🎓</p>
 
 
@@ -27,12 +26,8 @@
 ###
 <div>
 <div align="center">
-  <a href="https://lem-qr.web.app/" target="_blank">
-    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/qrPerfect.png?raw=true" style="margin-right: 20px;" />
-  </a>
-  <img width="25" />
-  <a href="https://focus-cycle.web.app/" target="_blank">
-    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/pomodoroPerfect.png?raw=true" />
+  <a href="https://adriankumor.pl/" target="_blank">
+    <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/portfolio.png?raw=true" />
   </a>
 </div>
 
