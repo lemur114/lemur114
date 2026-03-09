@@ -21,13 +21,14 @@
 ###
 
 <br>
-<h3 align="left">Finished 🎉 click to check 🌐👉</h3>
+<h3 align="left">🌐 Check out my portfolio website to see more my projects and work 🚀</h3>
 
 ###
 <div>
 <div align="center">
   <a href="https://adriankumor.pl/" target="_blank">
     <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/portfolio.png?raw=true" />
+    <h2>adriankumor.pl</h2>
   </a>
 </div>
 
