@@ -28,7 +28,8 @@
 <div align="center">
   <a href="https://adriankumor.pl/" target="_blank">
     <img height="200" src="https://github.com/lemur114/lemur114/blob/main/photos/perfect/portfolio.png?raw=true" />
-    <h2>adriankumor.pl</h2>
+    <br>
+    adriankumor.pl
   </a>
 </div>
 
