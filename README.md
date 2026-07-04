@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an ambitious third-year Computer Science student at the University of Łódź 🎓, seeking opportunities to gain my first professional experience through an internship 💼. I have a solid foundation in programming 💻, databases 🗄️, and version control systems ⚙️. I am open to learning 📚, enjoy collaborating in teams 🤝, and quickly adapt to new technologies and work methods 🔧.</p>
+<p align="left">I am an ambitious third-year Computer Science student at the University of Łódź 🎓. I have a solid foundation in programming 💻, databases 🗄️, and version control systems ⚙️. I am open to learning 📚, enjoy collaborating in teams 🤝, and quickly adapt to new technologies and work methods 🔧.</p>
 
 
 ###
@@ -10,15 +10,6 @@
 <br>
 <h1 align="left">Projects 💻</h1>
 
-
-
-<h3 align="left">Currently 💻 working 🛠️ on...</h3>
-
-<p align="left">🔭 Currently working on developing a backend application using Spring Boot 🌱, Docker 🐳, and PostgreSQL 🐘  </p>
-<p align="left"> 📜⭐ Also taking courses on LinkedIn Learning to expand my skills. 🎓</p>
-
-
-###
 
 <br>
 <h3 align="left">🌐 Check out my portfolio website to see more my projects and work 🚀</h3>
