@@ -10,7 +10,7 @@
 ###
 
 <br>
-<h3 align="left">🌐 Check out my portfolio website to see more my projects and work 🚀</h3>
+<h3 align="center">🌐 Check out my portfolio website to see more my projects and work 🚀</h3>
 
 ###
 <div>
