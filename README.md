@@ -2,14 +2,12 @@
 
 ###
 
-<p align="left">I am an ambitious third-year Computer Science student at the University of Łódź 🎓. I have a solid foundation in programming 💻, databases 🗄️, and version control systems ⚙️. I am open to learning 📚, enjoy collaborating in teams 🤝, and quickly adapt to new technologies and work methods 🔧.</p>
-
+<p align="left">  I am an ambitious 4rd-year Computer Science student at the University of Łódź,
+          seeking opportunities to gain professional experience.
+          I have a strong foundation in programming, databases and containerization. I am open to learning, enjoy collaborating in teams,
+          quickly adapt to new technologies and work methods. 
 
 ###
-
-<br>
-<h1 align="left">Projects 💻</h1>
-
 
 <br>
 <h3 align="left">🌐 Check out my portfolio website to see more my projects and work 🚀</h3>
